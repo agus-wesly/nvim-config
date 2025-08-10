@@ -1,0 +1,2 @@
+require("isaac")
+print("Hello")
